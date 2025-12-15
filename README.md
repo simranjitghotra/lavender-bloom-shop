@@ -40,6 +40,8 @@ You should include screenshots of the following pages:
 <img width="1907" height="850" alt="image" src="https://github.com/user-attachments/assets/cf7aa138-861c-4356-9cde-d294a0f58642" />
 <img width="1877" height="692" alt="image" src="https://github.com/user-attachments/assets/ac3c38b7-2133-43f1-afdc-f9d05ffaf80a" />
 <img width="1870" height="733" alt="image" src="https://github.com/user-attachments/assets/15b78b6e-b00a-44f3-bf42-408895df221f" />
+<img width="1551" height="667" alt="image" src="https://github.com/user-attachments/assets/72444e29-ef94-42f5-b8c6-1502982d404f" />
+
 
 
 
